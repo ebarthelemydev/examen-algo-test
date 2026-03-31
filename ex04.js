@@ -10,5 +10,5 @@ function fusionnerTableaux(tab1, tab2) {
 
 // Exemples attendus :
 fusionnerTableaux([1, 2], [3, 4]);
-usionnerTableaux(["a"], ["b", "c"]);
+fusionnerTableaux(["a"], ["b", "c"]);
 fusionnerTableaux([], [1, 2]);
